@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
+../include/Thing.h
+
+/home/atork/Programming/GitHub/DND-Character-Creator/src/Thing.cpp
+iostream
+-
+Thing.h
+/home/atork/Programming/GitHub/DND-Character-Creator/src/Thing.h
+
 /home/atork/Programming/GitHub/DND-Character-Creator/src/main.cpp
 iostream
 -
+Thing.h
+/home/atork/Programming/GitHub/DND-Character-Creator/src/Thing.h
 

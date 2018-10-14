@@ -1,7 +1,10 @@
 #include <iostream>
+#include "Thing.h"
 
 int main(void){
-    std::cout << "Hello, World" << std::endl;
+    Thing testThing(2, 5);
+
+    testThing.printCoordinates();
 
     return 0;
 }

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/CharacterCreator.dir/src/Thing.cpp.o"
   "CMakeFiles/CharacterCreator.dir/src/main.cpp.o"
   "CharacterCreator.pdb"
   "CharacterCreator"

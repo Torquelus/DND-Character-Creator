@@ -1,1 +1,1 @@
-/usr/bin/c++    -rdynamic CMakeFiles/CharacterCreator.dir/src/main.cpp.o  -o CharacterCreator 
+/usr/bin/c++    -rdynamic CMakeFiles/CharacterCreator.dir/src/Thing.cpp.o CMakeFiles/CharacterCreator.dir/src/main.cpp.o  -o CharacterCreator 

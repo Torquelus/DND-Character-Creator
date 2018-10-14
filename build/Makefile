@@ -123,6 +123,33 @@ CharacterCreator/fast:
 	$(MAKE) -f CMakeFiles/CharacterCreator.dir/build.make CMakeFiles/CharacterCreator.dir/build
 .PHONY : CharacterCreator/fast
 
+src/Thing.o: src/Thing.cpp.o
+
+.PHONY : src/Thing.o
+
+# target to build an object file
+src/Thing.cpp.o:
+	$(MAKE) -f CMakeFiles/CharacterCreator.dir/build.make CMakeFiles/CharacterCreator.dir/src/Thing.cpp.o
+.PHONY : src/Thing.cpp.o
+
+src/Thing.i: src/Thing.cpp.i
+
+.PHONY : src/Thing.i
+
+# target to preprocess a source file
+src/Thing.cpp.i:
+	$(MAKE) -f CMakeFiles/CharacterCreator.dir/build.make CMakeFiles/CharacterCreator.dir/src/Thing.cpp.i
+.PHONY : src/Thing.cpp.i
+
+src/Thing.s: src/Thing.cpp.s
+
+.PHONY : src/Thing.s
+
+# target to generate assembly for a file
+src/Thing.cpp.s:
+	$(MAKE) -f CMakeFiles/CharacterCreator.dir/build.make CMakeFiles/CharacterCreator.dir/src/Thing.cpp.s
+.PHONY : src/Thing.cpp.s
+
 src/main.o: src/main.cpp.o
 
 .PHONY : src/main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... CharacterCreator"
 	@echo "... edit_cache"
+	@echo "... src/Thing.o"
+	@echo "... src/Thing.i"
+	@echo "... src/Thing.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
