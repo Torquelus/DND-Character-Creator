@@ -1,0 +1,3 @@
+/home/atork/Programming/GitHub/DND-Character-Creator/build/CMakeFiles/rebuild_cache.dir
+/home/atork/Programming/GitHub/DND-Character-Creator/build/CMakeFiles/CharacterCreator.dir
+/home/atork/Programming/GitHub/DND-Character-Creator/build/CMakeFiles/edit_cache.dir
