@@ -1,0 +1,118 @@
+ToDo list for this project
+Pls no delete items, but mark them as complete (For completionism)
+The names for the classes aren't final
+
+Classes:
+    User Class:
+        DnDClass
+        Race
+        Level
+        Character Name
+        Player Name
+        Stats
+        Armour Class
+        Current HP
+        Speed
+        Initiative
+        Saving Throws
+        Skills
+        Proficiency Bonus
+        Passive Wisdom
+        Attacks
+        Equipment
+        Death Saves
+        Hit Dice
+        Alignment
+        XP
+        Background
+
+    DnD Classes:
+        DnDClass Parent Class
+            Hit Dice
+            Hit Points at 1st Level
+            Hit Points per Level
+            Proficiencies
+                Armour
+                Weapons
+                Tools
+            Saving Throws
+            Skills
+            Equipment
+            Proficiency Bonus
+            Spells Boolean (?)
+            For Information:
+            Primary Stat
+            Description
+
+        Barbarian
+        Bard
+        Cleric
+        Druid
+        Fighter
+        Monk
+        Paladin
+        Ranger
+        Rogue
+        Sorcerer
+        Warlock
+        Wizard
+
+    DnD Races:
+        Race Parent Class
+            Ability Score Increase
+            Size
+            Speed
+            Vision
+            Proficiencies
+            For Information:
+            Age
+            Alignment
+            Description
+            Names
+
+        Dragonborn
+        Dwarf
+            Hill Dwarf
+            Mountain Dwarf
+        Elf
+            High Elf
+            Wood Elf
+            Dark Elf
+        Gnome
+            Forest Gnome
+            Rock Gnome
+        Half-Elf
+        Half-Orc
+        Halfling
+            Lightfoot Halfling
+            Stout Halfling
+        Human
+        Tiefling
+
+    Equipment:
+        Equipment Parent Class
+
+        Packs
+            Burglar's Pack
+            Diplomat's Pack
+            Dungeoneer's Pack
+            Entertainer's Pack
+            Explorer's Pack
+            Priest's Pack
+            Scholar's Pack
+        Tools
+            Artisan's Tools
+            Disguise Kit
+            Fogery Kit
+            Gaming Set
+            Herbalism Kit
+            Musical Instruments
+            Navigator's Tools
+            Poisoner's Kit
+            Thieves' Tools
+            Vehicles
+        Weapons
+            Melee Weapons
+            Ranged Weapons
+        Armour
+        Misc.
