@@ -1,10 +1,10 @@
 #include <iostream>
-#include "Thing.h"
+#include "DnDClass.h"
 
 int main(void){
-    Thing testThing(2, 5);
+    DnDClass Rogue(3);
 
-    testThing.printCoordinates();
+    std::cout << Rogue.getA() << std::endl;
 
     return 0;
 }
